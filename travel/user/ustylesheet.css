@@ -1,0 +1,17 @@
+﻿body {
+    width:100%;
+    background-color:#fff;
+    height:auto;
+  
+}
+
+.h1
+{
+    text-align:center;
+    color:#ae8a8a;
+    font-size:10%;
+    font-family:'Lucida Calligraphy';
+    text-transform:capitalize;
+    text-align:center;
+  
+}
